@@ -6,8 +6,8 @@ github.com/golang/protobuf v1.5.3/go.mod h1:XVQd3VNwM+JqD3oG2Ue2ip4fOMUkwXdXDdiu
 github.com/google/go-cmp v0.5.5/go.mod h1:v8dTdLbMG2kIc/vJvl+f65V22dbkXbowE6jgT/gNBxE=
 github.com/google/go-cmp v0.6.0 h1:ofyhxvXcZhMsU5ulbFiLKl/XBFqE1GSq7atu8tAmTRI=
 github.com/google/go-cmp v0.6.0/go.mod h1:17dUlkBOakJ0+DkrSSNjCkIjxS6bF9zb3elmeNGIjoY=
-github.com/prontogui/golib v0.0.38 h1:jHFGEnGCjzD9JG0LYSjLkZqk6yzSknMVVM0QXQGmQLQ=
-github.com/prontogui/golib v0.0.38/go.mod h1:slr0TyWDCXmHae0kHequ5oaFPBINNSqE5XF0tYshMvw=
+github.com/prontogui/golib v0.0.53 h1:kogL3BJR2+YcLa31MVcQbevk3msSSDxmeoHStXtz7ko=
+github.com/prontogui/golib v0.0.53/go.mod h1:slr0TyWDCXmHae0kHequ5oaFPBINNSqE5XF0tYshMvw=
 github.com/x448/float16 v0.8.4 h1:qLwI1I70+NjRFUR3zs1JPUCgaCXSh3SW62uAKT1mSBM=
 github.com/x448/float16 v0.8.4/go.mod h1:14CWIYCyZA/cWjXOioeEpHeN/83MdbZDRQHoFcYsOfg=
 golang.org/x/net v0.20.0 h1:aCL9BSgETF1k+blQaYUBx9hJ9LOGP3gAVemcZlf1Kpo=

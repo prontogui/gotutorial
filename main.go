@@ -24,8 +24,8 @@ func main() {
 
 	// Build the GUI using primitives
 
-	boldTextEmbodiment := "{\"fontSize\":\"20.0\",\"fontWeight\":\"bold\"}"
-	normalTextEmbodiment := "{\"fontSize\":\"20.0\"}"
+	boldTextEmbodiment := "fontSize:20.0, fontWeight:bold"
+	normalTextEmbodiment := "fontSize:20.0"
 
 	helloText := pg.TextWith{
 		Content:    "Hello, world!",
