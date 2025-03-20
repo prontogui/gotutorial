@@ -2,7 +2,7 @@ module tutorial/hello
 
 go 1.22.1
 
-require github.com/prontogui/golib v0.0.53
+require github.com/prontogui/golib v0.0.56
 
 require (
 	github.com/fxamacker/cbor/v2 v2.5.0 // indirect
